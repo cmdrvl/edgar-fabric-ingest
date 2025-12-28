@@ -13,7 +13,7 @@ A reference implementation that converts SEC EDGAR filings into provenance-first
 - A graph builder
 - Trading or investment advice
 
-## Relationship to CMD+RVL
+## Relationship to [CMD+RVL](https://cmdrvl.com)
 
 Maintained by the CMD+RVL team. This tool reflects CMD+RVL data fabric principles: append-only ingest, provenance, strict ingest schema, and replayable projections. This repo is standalone; the CMD+RVL ingestion endpoint is optional. The CMD+RVL fabric ingest endpoint is available by request while in limited beta/stealth (no public URL).
 
@@ -170,7 +170,7 @@ node dist/cli.js --issuer MSFT --after 2023-01-01 --before 2023-12-31 --forms 10
 
 ## Contact / Access
 
-For access requests or questions, open an issue. More info at cmdrvl.com.
+For access requests or questions, open an issue. More info at [cmdrvl.com](https://cmdrvl.com).
 
 ## License
 
